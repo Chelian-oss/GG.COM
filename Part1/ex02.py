@@ -1,0 +1,2 @@
+text ="GGMAN"
+print(text)
